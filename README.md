@@ -10,7 +10,7 @@
 - 🌱 Currently improving advanced Spring Boot & REST API development
 - 🎯 Focused on building secure, scalable, and performance-optimized applications
 - 📍 India
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: thotakurapoojitha5@gmail.com
 
 ---
 
@@ -31,6 +31,7 @@
 - Bootstrap 5
 - Responsive Web Design
 - DOM Manipulation
+- React
 
 ### 🗄 Database
 - MySQL
@@ -59,19 +60,12 @@ Scalable Spring Boot REST API implementing JWT authentication and CRUD operation
 
 ---
 
-## 📈 GitHub Stats
-
-![Poojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thotakurapoojitha&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/thotakurapoojitha
-- 🌐 Portfolio: https://your-portfolio-link.com
 
 ---
 
-⭐ "Striving to write clean, maintainable, and scalable code every day."## Hi there 👋
+⭐ "Striving to write clean, maintainable, and scalable code every day."
 
 

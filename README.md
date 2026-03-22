@@ -63,6 +63,7 @@ Scalable Spring Boot REST API implementing JWT authentication and CRUD operation
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/thotakurapoojitha
+- 🌐 Portfolio link🔗‍️: https://portfolio-blush-phi-86.vercel.app/
 
 ---
 

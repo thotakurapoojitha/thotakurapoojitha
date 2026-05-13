@@ -9,7 +9,7 @@
 - 💼 Java Full Stack Developer
 - 🌱 Currently improving advanced Spring Boot & REST API development
 - 🎯 Focused on building secure, scalable, and performance-optimized applications
-- 📍 Vijayawada, Andhra Pradesh
+- 📍 Hyderabad, Telangana
 - 📫 Reach me at: thotakurapoojitha5@gmail.com
 
 ---
